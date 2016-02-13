@@ -1,0 +1,94 @@
+body {
+	background-color:
+}
+
+.card-border {
+	margin: 5px;
+	float: left;
+	height: 100%;
+    width: 30%;
+	display: inline-block;
+	border: 1px lightblue solid;
+	
+}
+
+.title {
+	font-size: .75em;
+	font-weight: bold;
+	text-align: center;
+}
+
+.header {
+	text-align: center;
+	border: 1px dotted lightblue;
+	height: 40px;
+	margin: 0;
+	font-size: .75em;
+	padding-top: 20px;
+
+
+
+}
+
+.pic-holder {
+
+}
+
+.pic-holder img {
+    width: 90%;
+    margin: 10px;
+}
+
+.descriptionText {
+	padding: 5px;
+	text-align: center;
+
+}
+
+.solid-bar {
+	background-color: gray;
+	height: 20px;
+	width: 100%;
+	font-size: .75em;
+	font-weight: bold;
+}
+
+.solid-bar p {
+	color: yellow;
+	margin-left: 5px;
+}
+
+.specifications {
+	margin-left: 5px;
+	font-weight: bold;
+}
+
+.specifications p {
+	font-size: .65em;
+	font-weight: bold;
+}
+
+.smallest {
+	font-size: .25em;
+	margin-left: 5px;
+}
+
+.pricing {
+	margin-left: 5px;
+	font-weight: bold;
+}
+
+.pricing p {
+	font-size: .65em;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
